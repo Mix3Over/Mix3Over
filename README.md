@@ -6,7 +6,7 @@
 ### 🔥 Check Out My Games</sub>  
 🔗 [mix3over.itch.io](https://mix3over.itch.io/)</sub>  
 ---  
-### ⚙️ Tech & Tools</sub>  
+### ⚙️ Tech & Tools
 🚀 **Unity, React**</sub>  
 🖥️ **C#, Python, JavaScript**</sub>  
 🎨 **Blender**</sub>  
