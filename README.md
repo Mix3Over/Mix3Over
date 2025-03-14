@@ -4,19 +4,19 @@
 
 ---  
 
-###🔥 Check Out My Games</sub>  
+### 🔥 Check Out My Games</sub>  
 🔗 [mix3over.itch.io](https://mix3over.itch.io/)</sub>  
 
 ---  
 
-###⚙️ Tech & Tools</sub>  
+### ⚙️ Tech & Tools</sub>  
 🚀 **Unity, React**</sub>  
 🖥️ **C#, Python, JavaScript**</sub>  
 🎨 **Blender**</sub>  
 
 ---  
 
-###📌 My Profiles</sub>  
+### 📌 My Profiles</sub>  
 📣 **GitHub**</sub>  
 🎮 **Itch.io**</sub>  
 📧 **maksian431@gmail.com**</sub>  
