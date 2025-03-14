@@ -7,9 +7,9 @@
 🔗 [mix3over.itch.io](https://mix3over.itch.io/)
 
 ### <sub>⚙️ Tech & Tools</sub>  
-<sub>🚀 **Unity, React**
-<sub>🖥️ **C#, Python, JavaScript**
-<sub>🎨 **Blender**
+🚀 **Unity, React**
+🖥️ **C#, Python, JavaScript**
+🎨 **Blender**
 
 ### <sub>📌 My Profiles</sub>  
 📣 **GitHub**
