@@ -4,7 +4,7 @@
 
 ---  
 ### <sub>🔥 Check Out My Games</sub>  
-<sub>🔗 [mix3over.itch.io](https://mix3over.itch.io/)</sub>  
+🔗 [mix3over.itch.io](https://mix3over.itch.io/)
 
 ### <sub>⚙️ Tech & Tools</sub>  
 <sub>🚀 **Unity, React**</sub>  
