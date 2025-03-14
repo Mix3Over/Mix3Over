@@ -4,10 +4,17 @@
 
 ---  
 
-### <sub>🔥 Check Out My Games | ⚙️ Tech & Tools | 📌 My Profiles</sub>  
-<sub>🔗 [mix3over.itch.io](https://mix3over.itch.io/) | 🚀 **Unity, React** | 📣 **GitHub**</sub>  
-<sub>🖥️ **C#, Python, JavaScript** | 🎨 **Blender** | 🎮 **Itch.io**</sub>  
+### <sub>🔥 Check Out My Games</sub>  
+<sub>🔗 [mix3over.itch.io](https://mix3over.itch.io/)</sub>  
+
+### <sub>⚙️ Tech & Tools</sub>  
+<sub>🚀 **Unity, React**</sub>  
+<sub>🖥️ **C#, Python, JavaScript**</sub>  
+<sub>🎨 **Blender**</sub>  
+
+### <sub>📌 My Profiles</sub>  
+<sub>📣 **GitHub**</sub>  
+<sub>🎮 **Itch.io**</sub>  
 <sub>📧 **maksian431@gmail.com**</sub>  
 
 ---
-
