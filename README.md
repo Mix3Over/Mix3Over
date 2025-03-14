@@ -7,13 +7,13 @@
 🔗 [mix3over.itch.io](https://mix3over.itch.io/)
 
 ### <sub>⚙️ Tech & Tools</sub>  
-<sub>🚀 **Unity, React**</sub>  
-<sub>🖥️ **C#, Python, JavaScript**</sub>  
-<sub>🎨 **Blender**</sub>  
+<sub>🚀 **Unity, React**
+<sub>🖥️ **C#, Python, JavaScript**
+<sub>🎨 **Blender**
 
 ### <sub>📌 My Profiles</sub>  
-<sub>📣 **GitHub**</sub>  
-<sub>🎮 **Itch.io**</sub>  
-<sub>📧 **maksian431@gmail.com**</sub>  
+📣 **GitHub**
+🎮 **Itch.io**
+📧 **maksian431@gmail.com**
 
 ---
