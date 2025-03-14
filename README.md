@@ -3,7 +3,6 @@
 ### <sub>🎮 Indie game creator | 🏃 Passionate about running | 💻 Love coding and building cool projects | 🏯 Currently learning Chinese</sub>  
 
 ---  
-
 ### <sub>🔥 Check Out My Games</sub>  
 <sub>🔗 [mix3over.itch.io](https://mix3over.itch.io/)</sub>  
 
@@ -16,5 +15,4 @@
 <sub>📣 **GitHub**</sub>  
 <sub>🎮 **Itch.io**</sub>  
 <sub>📧 **maksian431@gmail.com**</sub>  
-
 ---
