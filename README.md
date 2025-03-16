@@ -11,9 +11,7 @@
 🖥️ **C#, Python, JavaScript**
 🎨 **Blender**
 
-### <sub>📌 My Profiles</sub>  
-📣 **GitHub**
-🎮 **Itch.io**
+### <sub>📌 Contact </sub>  
 📧 **maksian431@gmail.com**
 
 ---
