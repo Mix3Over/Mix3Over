@@ -1,6 +1,6 @@
 # <sub>Hi there! 👋 I'm Maks (Mix3Over)</sub>
 
-### <sub>🎮 Indie game creator | 🏃 Passionate about running | 💻 Love coding and building cool projects | 🏯 Currently learning Chinese for fun</sub>  
+### <sub>🎮 Indie game creator | 🏃 Passionate about running | 💻 Love coding and building cool projects | 🏯 Currently learning Chinese</sub>  
 
 ---  
 ### <sub>🔥 Check Out My Games</sub>  
