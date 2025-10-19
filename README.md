@@ -8,7 +8,7 @@
 
 ### <sub>⚙️ Tech & Tools</sub>  
 🚀 **Unity, React**
-🖥️ **C#, Python, JavaScript**
+🖥️ **C#, C++, Python, JavaScript**
 🎨 **Blender**
 
 ### <sub>📌 Contact </sub>  
